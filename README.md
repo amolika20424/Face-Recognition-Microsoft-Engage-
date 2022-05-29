@@ -33,6 +33,6 @@ Follow the following steps to run the code:
 **Add new user:** <br/>
 ![login_password](https://user-images.githubusercontent.com/88887824/170887883-cab4cf08-b9a5-4480-b318-ad712508aafe.PNG)
 
-**Admin dashboard: **<br/>
+**Admin dashboard:** <br/>
 ![admin_dashboard](https://user-images.githubusercontent.com/88887824/170887870-2f0a9ef2-ef1f-4597-981b-6fe3a45ab7a9.PNG)
 
