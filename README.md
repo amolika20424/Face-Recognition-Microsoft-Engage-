@@ -8,3 +8,6 @@ Follow the following steps to run the code:
 2. Download this file and put it in the face_recognition_data folder.<br />
 3. Run  pip install -r requirements.txt to download the required dependencies to run this project.<br />
 4. Finally execute the command python manage.py runserver.<br />
+
+
+![](UI/3icons-small.png)
