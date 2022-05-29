@@ -11,11 +11,12 @@ Follow the following steps to run the code:
 
 
 ![3icons](https://user-images.githubusercontent.com/88887824/170887866-1696f00e-0f52-4c00-ab8b-5725f8093731.PNG)
-![admin_dashboard](https://user-images.githubusercontent.com/88887824/170887870-2f0a9ef2-ef1f-4597-981b-6fe3a45ab7a9.PNG)
-![admin_view](https://user-images.githubusercontent.com/88887824/170887871-f0100cb1-fbea-4f6e-a742-7c94091df9c7.PNG)
 ![attendance_in](https://user-images.githubusercontent.com/88887824/170887874-395488c6-9d47-43ab-8663-53f3fd40b725.PNG)
 ![face_detected](https://user-images.githubusercontent.com/88887824/170887878-6d812670-8100-420c-a17f-2346f8c7ca42.PNG)
+![welcome_employee](https://user-images.githubusercontent.com/88887824/170887890-f251b4b8-a0fa-4be1-a239-87b4434a591f.PNG)
+![admin_dashboard](https://user-images.githubusercontent.com/88887824/170887870-2f0a9ef2-ef1f-4597-981b-6fe3a45ab7a9.PNG)
 ![login_password](https://user-images.githubusercontent.com/88887824/170887883-cab4cf08-b9a5-4480-b318-ad712508aafe.PNG)
+![admin_view](https://user-images.githubusercontent.com/88887824/170887871-f0100cb1-fbea-4f6e-a742-7c94091df9c7.PNG)
 ![out_time](https://user-images.githubusercontent.com/88887824/170887887-19ece449-8096-4215-b7e2-adb4752d2c81.PNG)
 ![time_in](https://user-images.githubusercontent.com/88887824/170887889-38f634c7-a4e1-4a72-b9d5-de1659b21264.PNG)
-![welcome_employee](https://user-images.githubusercontent.com/88887824/170887890-f251b4b8-a0fa-4be1-a239-87b4434a591f.PNG)
+
